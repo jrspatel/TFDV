@@ -1,0 +1,5 @@
+outs:
+- md5: fb0a561da88c970ff38e8ec30489e680
+  size: 2959842
+  hash: md5
+  path: slice_sample.csv
